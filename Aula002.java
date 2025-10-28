@@ -1,6 +1,6 @@
 
 
-public class Aula2 {
+public class Aula002 {
     public static void main(String[] args) {
         String nome = "Maria";
         int idade = 22;

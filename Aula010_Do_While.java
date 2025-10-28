@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Aula10_Do_While {
+public class Aula010_Do_While {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

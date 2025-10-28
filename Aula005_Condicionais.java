@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Aula5_Condicionais {
+public class Aula005_Condicionais {
     @SuppressWarnings("ConvertToTryWithResources")
     public static void main(String[] args) {
         // if, else, else if

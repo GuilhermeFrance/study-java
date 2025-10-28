@@ -1,7 +1,7 @@
 
 import java.util.*;
 
-public class Aula7_Condicional_Ternario {
+public class Aula007_Condicional_Ternario {
 
     @SuppressWarnings("ConvertToTryWithResources")
     public static void main(String[] args) {

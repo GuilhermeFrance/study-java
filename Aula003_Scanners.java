@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Aula3_Scanners {
+public class Aula003_Scanners {
     public static void main(String[] args) {
 
         String x;

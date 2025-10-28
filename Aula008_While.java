@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Aula8_While {
+public class Aula008_While {
 
     public static void main(String[] args) {
         System.out.println("Insira um número:");

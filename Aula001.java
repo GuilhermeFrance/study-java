@@ -1,6 +1,6 @@
 import java.util.Locale;
 
-public class Aula1 {
+public class Aula001 {
     public static void main(String[] args){
         System.out.println("O numero normal:");
         double x = 10.55445;

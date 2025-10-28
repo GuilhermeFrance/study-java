@@ -1,6 +1,6 @@
 
 
-public class Aula4_Funcoes {
+public class Aula004_Funcoes {
     public static void main(String[] args) {
         // Funcoes: sqrt,pow,abs 
         double x = 3.5;

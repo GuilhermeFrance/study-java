@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Aula9_For {
+public class Aula009_For {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

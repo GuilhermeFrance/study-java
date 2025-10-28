@@ -1,6 +1,6 @@
 import java.util.*;
 
-public class Aula6_Condicionais_Exemplo {
+public class Aula006_Condicionais_Exemplo {
     @SuppressWarnings("ConvertToTryWithResources")
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
