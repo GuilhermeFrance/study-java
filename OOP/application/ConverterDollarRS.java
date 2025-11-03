@@ -1,5 +1,7 @@
 // UTILIZAÇÃO DE MEMBROS ESTÁTICOS
 
+package OOP.application;
+
 import java.util.*;
 import OOP.entities.CurrencyConverter;
 

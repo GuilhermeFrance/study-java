@@ -1,3 +1,7 @@
+
+package OOP.application;
+
+
 import java.util.*;
 import OOP.entities.Sphere;
 

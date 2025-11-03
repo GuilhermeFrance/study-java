@@ -1,3 +1,6 @@
+
+package OOP.application;
+
 public class ContaBancaria {
     // --- Atributos ---
     int numero;
