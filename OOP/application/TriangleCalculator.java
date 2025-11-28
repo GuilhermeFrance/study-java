@@ -1,4 +1,4 @@
-package OOP.application;
+
 
 import OOP.entities.TriangleEntity;
 import java.util.*;
