@@ -30,12 +30,27 @@ public class ExerciseMatrix {
         int x = sc.nextInt();
 
         for(int i = 0; i < mat.length ; i++){
-            for(int j = 0; j < mat.length; j++){
+            for(int j = 0; j < mat[i].length; j++){
                 if(mat[i][j] == x){
                     System.out.println("Number found! ");
                     System.out.println("Position: " + " [" + i + " , " +  j + "]");
-                    System.out.println("Left: " + (mat[i][i]-1));
-                    System.out.println("Right: " + (mat[j][j]+1));
+
+                    if(j>0){
+                        System.out.println("Left: " + mat[i][j - 1]);
+                    }else{
+                        System.out.println("Left: null");
+                    }
+                    if(j < mat[i].length - 1){
+                        System.out.println("Right: " + mat[i][j + 1]);
+                    }else{
+                        System.out.println("Right: null");
+                    }
+                    if(i < mat[i].length - 1){
+                        System.out.println("Down: " + mat[i+1][j]);
+                    }else{
+                        System.out.println("Down: null");
+                    }
+
                 }
             }
         }
